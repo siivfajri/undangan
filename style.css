@@ -22,7 +22,8 @@ body {
   flex-direction: column;
 }
 .attention p {
-  font-size: 12px;
+  font-size: 13px;
+  padding: 13px;
   text-align: center;
 }
 .attention button {
